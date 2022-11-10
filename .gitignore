@@ -1,0 +1,13 @@
+#ignores of gb_bi
+.venv
+*.env
+venv/
+env/
+env.bak/
+venv.bak/
+.idea/
+__pycache__/
+*.py[cod]
+*.class
+source_data/
+_/
